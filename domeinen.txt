@@ -1,0 +1,11 @@
+BOOTJE:
+-aveleble
+
+TOCHT:
+-vertrektijd
+-nummer/id
+-aankomst
+
+methoth:
+duur
+
